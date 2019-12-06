@@ -1,0 +1,29 @@
+Run1:
+Enter number of judges: 5
+Enter the contestants number: 3
+Enter all scores for contestant number 3: 50 66 70 78 89
+
+Contestant 3 71.3333
+Enter next contestant number: 13
+Enter all scores for contestant number 13: 67 69 71 75 60
+
+Contestant 13 69
+Enter next contestant number: 33
+Enter all scores for contestant number 33: 89 90 91 79 85
+
+Contestant 33 88
+Enter next contestant number: -1
+Contestant 33 had the highest score.
+
+Run 2:
+Enter number of judges: 10
+Enter the contestants number: 1
+Enter all scores for contestant number 1: 90 76 88 89 78 77 65 64 91 50
+
+Contestant 1 78.375
+Enter next contestant number: 2
+Enter all scores for contestant number 2: 77 75 45 60 80 81 71 71 61 89
+
+Contestant 2 72
+Enter next contestant number: -1
+Contestant 1 had the highest score.
